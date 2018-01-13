@@ -1,4 +1,3 @@
-import csv
 import re
 import sys
 from operator import itemgetter
