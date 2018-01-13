@@ -1,0 +1,27 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+   padding-top: 50px;
+   padding-bottom: 20px;
+}
+
+.beer-item {
+     background-color: #e8e8e8;
+     padding: 20px;
+     margin-bottom: 10px;
+}
+
+.name {
+    margin:0px 4px 4px 6px;
+}
+
+.label {
+    padding: 0px 0px 20px 20px;
+}
+
+.beer-info p {
+    margin-bottom: 2px;
+}
