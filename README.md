@@ -15,4 +15,7 @@ I enjoy the BrewDog drinks and the guest beers they get in. But I was sick of no
 ### 3rd party libraries
 
 `$ pip install requests`
+
 `$ pip install beautifulsoup4`
+
+`$ pip install jinja2`
