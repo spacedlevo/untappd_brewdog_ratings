@@ -149,6 +149,7 @@ if __name__ == '__main__':
     c.executescript('''
     DROP TABLE IF EXISTS bars;
     DROP TABLE IF EXISTS beer_location;
+    DROP TABLE IF EXISTS beers;
 
     CREATE TABLE bars (
         id INTEGER PRIMARY KEY AUTOINCREMENT,
